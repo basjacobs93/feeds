@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Feeds · basjacobs.com</title>
+  <style>
+    :root { --fg: #222; --muted: #777; --bg: #fdfdfd; --link: #0b57d0; --new: #d93025; }
+    @media (prefers-color-scheme: dark) {
+      :root { --fg: #ddd; --muted: #888; --bg: #161616; --link: #8ab4f8; --new: #f28b82; }
+    }
+    body { font: 16px/1.5 -apple-system, system-ui, sans-serif; color: var(--fg); background: var(--bg);
+           max-width: 46rem; margin: 2rem auto; padding: 0 1rem; }
+    h1 { font-size: 1.4rem; margin-bottom: 0; }
+    header p { color: var(--muted); margin-top: .2rem; font-size: .9rem; }
+    a { color: var(--link); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    a:visited { color: var(--muted); }
+    h2 { font-size: .9rem; font-weight: 600; color: var(--muted); margin: 1.6rem 0 .3rem;
+         border-bottom: 1px solid color-mix(in srgb, var(--muted) 30%, transparent); padding-bottom: .2rem; }
+    ul { margin: 0; padding-left: 1.2rem; }
+    li { margin: .25rem 0; }
+    li a.feed { color: var(--muted); font-size: .85rem; margin-left: .3rem; }
+    li.new::marker { color: var(--new); }
+    li.new > a:first-child { font-weight: 600; }
+    summary { cursor: pointer; }
+    .errors { margin-top: 2rem; color: var(--muted); font-size: .85rem; }
+    footer { margin-top: 2rem; color: var(--muted); font-size: .8rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>📰 Feeds</h1>
+    <p>{{count}} feeds · updated {{updated}} · <span id="since"></span></p>
+  </header>
+  <main>
+{{feeds}}
+{{errors}}
+  </main>
+  <footer>Built by GitHub Actions from feeds.opml.</footer>
+  <script>
+    // Highlight posts newer than your previous visit (stored per browser).
+    let last = 0;
+    try { last = +localStorage.getItem("lastVisit") || 0; localStorage.setItem("lastVisit", Math.floor(Date.now() / 1000)); } catch {}
+    let n = 0;
+    if (last) {
+      document.querySelectorAll("li[data-ts]").forEach(li => {
+        if (+li.dataset.ts > last) { li.classList.add("new"); n++; }
+      });
+    }
+    document.getElementById("since").textContent = last ? `${n} new since your last visit` : "";
+  </script>
+</body>
+</html>
