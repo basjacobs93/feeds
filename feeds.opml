@@ -28,7 +28,6 @@
             <outline type="rss" text="The Universe of Discourse" title="The Universe of Discourse" xmlUrl="https://blog.plover.com/index.atom" htmlUrl="https://blog.plover.com"/>
             <outline type="rss" text="Wait But Why" title="Wait But Why" xmlUrl="https://waitbutwhy.com/feed" htmlUrl="https://waitbutwhy.com/"/>
             <outline type="rss" text="Nicholas Pilkington" title="Nicholas Pilkington" xmlUrl="https://nickp.svbtle.com/feed" htmlUrl="https://nickp.svbtle.com"/>
-            <outline type="rss" text="Apple Machine Learning Journal" title="Apple Machine Learning Journal" xmlUrl="https://machinelearning.apple.com/rss.xml" htmlUrl="https://machinelearning.apple.com/"/>
             <outline type="rss" text="free range statistics" title="free range statistics" xmlUrl="http://ellisp.github.io/feed.xml" htmlUrl="https://freerangestats.info"/>
             <outline type="rss" text="Evan Miller’s News" title="Evan Miller’s News" xmlUrl="http://www.evanmiller.org/news.xml" htmlUrl="https://www.evanmiller.org/"/>
             <outline type="rss" text="Data Is Plural" title="Data Is Plural" xmlUrl="https://data-is-plural.github.io/newsletter-archive/feeds/dip.rss" htmlUrl="https://www.data-is-plural.com"/>
@@ -81,7 +80,6 @@
             <outline type="rss" text="mpatacchiola Blog" title="mpatacchiola Blog" xmlUrl="https://mpatacchiola.github.io/blog/feed.xml" htmlUrl="https://mpatacchiola.github.io"/>
             <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="http://googleresearch.blogspot.com/atom.xml" htmlUrl="http://blog.research.google/"/>
             <outline type="rss" text="Probably Overthinking It" title="Probably Overthinking It" xmlUrl="https://www.allendowney.com/blog/feed/" htmlUrl="https://www.allendowney.com/blog/"/>
-            <outline type="rss" text="Statistical Modeling, Causal Inference, and Social Science" title="Statistical Modeling, Causal Inference, and Social Science" xmlUrl="https://statmodeling.stat.columbia.edu/feed/" htmlUrl="https://statmodeling.stat.columbia.edu"/>
             <outline type="rss" text="Off the convex path" title="Off the convex path" xmlUrl="http://www.offconvex.org/feed.xml" htmlUrl="http://offconvex.github.io/"/>
             <outline type="rss" text="Math ∩ Programming" title="Math ∩ Programming" xmlUrl="https://jeremykun.com/feed/" htmlUrl="https://www.jeremykun.com/"/>
             <outline type="rss" text="Andrew Heiss's blog" title="Andrew Heiss's blog" xmlUrl="https://www.andrewheiss.com/atom.xml" htmlUrl="https://www.andrewheiss.com/blog/"/>
@@ -95,11 +93,9 @@
             <outline type="rss" text="Emily Riederer" title="Emily Riederer" xmlUrl="https://www.emilyriederer.com/index.xml" htmlUrl="https://www.emilyriederer.com"/>
             <outline type="rss" text="kieranhealy.org" title="kieranhealy.org" xmlUrl="https://kieranhealy.org/index.xml" htmlUrl="https://kieranhealy.org"/>
             <outline type="rss" text="Win Vector LLC" title="Win Vector LLC" xmlUrl="https://win-vector.com/feed/" htmlUrl="https://win-vector.com"/>
-            <outline type="rss" text="Simon Willison's Weblog" title="Simon Willison's Weblog" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net"/>
             <outline type="rss" text="Vicki Boykis" title="Vicki Boykis" xmlUrl="https://vickiboykis.com/index.xml" htmlUrl="https://vickiboykis.com"/>
             <outline type="rss" text="Ahead of AI" title="Ahead of AI" xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com"/>
             <outline type="rss" text="Mindful Modeler" title="Mindful Modeler" xmlUrl="https://mindfulmodeler.substack.com/feed" htmlUrl="https://mindfulmodeler.substack.com"/>
-            <outline type="rss" text="Netflix TechBlog" title="Netflix TechBlog" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com"/>
             <outline type="rss" text="R Weekly" title="R Weekly" xmlUrl="https://rweekly.org/atom.xml" htmlUrl="https://rweekly.org"/>
             <outline type="rss" text="PyCoder's Weekly" title="PyCoder's Weekly" xmlUrl="https://pycoders.com/feed" htmlUrl="https://pycoders.com"/>
         </outline>
