@@ -17,10 +17,8 @@
             <outline type="rss" text="Blog on rOpenSci - open tools for open science" title="Blog on rOpenSci - open tools for open science" xmlUrl="https://ropensci.org/blog/index.xml" htmlUrl="https://ropensci.org/blog/"/>
             <outline type="rss" text="Nina B. Zumel" title="Nina B. Zumel" xmlUrl="https://ninazumel.com/feed.xml" htmlUrl="https://ninazumel.com/"/>
             <outline type="rss" text="Zalando Tech Blog" title="Zalando Tech Blog" xmlUrl="https://engineering.zalando.com/atom.xml" htmlUrl="https://jobs.zalando.com/"/>
-            <outline type="rss" text="OpenAI News" title="OpenAI News" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news"/>
             <outline type="rss" text="Almost looks like work" title="Almost looks like work" xmlUrl="https://jasmcole.com/feed/" htmlUrl="https://jasmcole.com"/>
             <outline type="rss" text="Max Halford" title="Max Halford" xmlUrl="https://maxhalford.github.io/index.xml" htmlUrl="https://maxhalford.github.io/"/>
-            <outline type="rss" text="Publishable Stuff" title="Publishable Stuff" xmlUrl="http://www.sumsar.net/atom.xml" htmlUrl="https://sumsar.net/"/>
             <outline type="rss" text="Tim Dettmers" title="Tim Dettmers" xmlUrl="http://timdettmers.com/feed/" htmlUrl="https://timdettmers.com/"/>
             <outline type="rss" text="John D. Cook" title="John D. Cook" xmlUrl="http://www.johndcook.com/blog/feed/" htmlUrl="https://www.johndcook.com/blog"/>
             <outline type="rss" text="Publishable Stuff" title="Publishable Stuff" xmlUrl="https://www.sumsar.net/index.xml" htmlUrl="https://sumsar.net/"/>
@@ -86,6 +84,24 @@
             <outline type="rss" text="Statistical Modeling, Causal Inference, and Social Science" title="Statistical Modeling, Causal Inference, and Social Science" xmlUrl="https://statmodeling.stat.columbia.edu/feed/" htmlUrl="https://statmodeling.stat.columbia.edu"/>
             <outline type="rss" text="Off the convex path" title="Off the convex path" xmlUrl="http://www.offconvex.org/feed.xml" htmlUrl="http://offconvex.github.io/"/>
             <outline type="rss" text="Math ∩ Programming" title="Math ∩ Programming" xmlUrl="https://jeremykun.com/feed/" htmlUrl="https://www.jeremykun.com/"/>
+            <outline type="rss" text="Andrew Heiss's blog" title="Andrew Heiss's blog" xmlUrl="https://www.andrewheiss.com/atom.xml" htmlUrl="https://www.andrewheiss.com/blog/"/>
+            <outline type="rss" text="Data Colada" title="Data Colada" xmlUrl="https://datacolada.org/feed" htmlUrl="https://datacolada.org"/>
+            <outline type="rss" text="arg min" title="arg min" xmlUrl="https://www.argmin.net/feed" htmlUrl="https://www.argmin.net"/>
+            <outline type="rss" text="Scott's Mixtape Substack" title="Scott's Mixtape Substack" xmlUrl="https://causalinf.substack.com/feed" htmlUrl="https://causalinf.substack.com"/>
+            <outline type="rss" text="Rob J Hyndman" title="Rob J Hyndman" xmlUrl="https://robjhyndman.com/index.xml" htmlUrl="https://robjhyndman.com"/>
+            <outline type="rss" text="A. Solomon Kurz" title="A. Solomon Kurz" xmlUrl="https://solomonkurz.netlify.app/index.xml" htmlUrl="https://solomonkurz.netlify.app"/>
+            <outline type="rss" text="Three-Toed Sloth" title="Three-Toed Sloth" xmlUrl="http://bactra.org/weblog/index.rss" htmlUrl="http://bactra.org/weblog/"/>
+            <outline type="rss" text="Notes from a data witch" title="Notes from a data witch" xmlUrl="https://blog.djnavarro.net/index.xml" htmlUrl="https://blog.djnavarro.net"/>
+            <outline type="rss" text="Emily Riederer" title="Emily Riederer" xmlUrl="https://www.emilyriederer.com/index.xml" htmlUrl="https://www.emilyriederer.com"/>
+            <outline type="rss" text="kieranhealy.org" title="kieranhealy.org" xmlUrl="https://kieranhealy.org/index.xml" htmlUrl="https://kieranhealy.org"/>
+            <outline type="rss" text="Win Vector LLC" title="Win Vector LLC" xmlUrl="https://win-vector.com/feed/" htmlUrl="https://win-vector.com"/>
+            <outline type="rss" text="Simon Willison's Weblog" title="Simon Willison's Weblog" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net"/>
+            <outline type="rss" text="Vicki Boykis" title="Vicki Boykis" xmlUrl="https://vickiboykis.com/index.xml" htmlUrl="https://vickiboykis.com"/>
+            <outline type="rss" text="Ahead of AI" title="Ahead of AI" xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com"/>
+            <outline type="rss" text="Mindful Modeler" title="Mindful Modeler" xmlUrl="https://mindfulmodeler.substack.com/feed" htmlUrl="https://mindfulmodeler.substack.com"/>
+            <outline type="rss" text="Netflix TechBlog" title="Netflix TechBlog" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com"/>
+            <outline type="rss" text="R Weekly" title="R Weekly" xmlUrl="https://rweekly.org/atom.xml" htmlUrl="https://rweekly.org"/>
+            <outline type="rss" text="PyCoder's Weekly" title="PyCoder's Weekly" xmlUrl="https://pycoders.com/feed" htmlUrl="https://pycoders.com"/>
         </outline>
     </body>
 </opml>
